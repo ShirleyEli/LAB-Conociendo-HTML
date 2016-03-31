@@ -1,0 +1,15 @@
+img{
+	
+	clear: right;
+	position: absolute;
+	top: 180px;
+	right: 430px;
+
+
+}
+h1{
+	text-align: center;
+}
+body{
+	border: 3px solid black;
+}
